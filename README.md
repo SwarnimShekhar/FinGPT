@@ -4,6 +4,7 @@
 
 ---
 
+### Currently Updating the repo to get the desired outputs
 ## 🔍 Project Summary
 
 **FinGPT-Audit** is a domain-specific QA system that uses an LLM to perform **red-flag audits** on financial disclosures such as 10-K filings, annual reports, and management commentary.
